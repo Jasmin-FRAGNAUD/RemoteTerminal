@@ -2,4 +2,4 @@
 
 Bus OTAN simulator running on local network
 
-Terminal for the bus (watcher)
+Terminal for the bus
